@@ -4,7 +4,7 @@
 \alias{praise}
 \title{Deliver praise}
 \usage{
-praise(name, punctuation)
+praise(name, punctuation = "!")
 }
 \arguments{
 \item{name}{This is the name of then person I want to praise. Input as text string.}
@@ -15,7 +15,7 @@ praise(name, punctuation)
 Text string with praise
 }
 \description{
-This function is super useful when you are feeling sad.
+This function is super useful when you are feeling sad. It works really well.
 }
 \examples{
 praise("disha",".")
